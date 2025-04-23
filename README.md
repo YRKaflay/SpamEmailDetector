@@ -1,6 +1,8 @@
 # Spam Detection
 The project concerns spam detection in Emails to determine whether the mail is spam or not. It includes data analysis, data preparation, text mining and create model by using different machine learning algorithms and BERT model(Bidirectional Encoder Representations from Transformers) in conjunction with cross-validation methodologies.
 
+This project was inspired from the research paper [AI-Generated Text Detection and ClassificationBasedonBERT Deep Learning Algorithm](https://arxiv.org/pdf/2405.16422).
+
 ## Data
 The data comes from the E-Mail classification NLP dataset on Kaggle. The link is [here](https://www.kaggle.com/datasets/datatattle/email-classification-nlp). 
 
